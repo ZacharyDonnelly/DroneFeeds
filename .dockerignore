@@ -1,0 +1,14 @@
+**/*.sqlite3
+**/*.pyo
+**/*.pyd
+**/*.py~
+**/venv/
+**/node_modules/
+**/build/
+.DS_Store
+.cache
+.tox
+.tx
+__pycache__
+*.pyc
+node_modules/
